@@ -1,4 +1,4 @@
-# getKeyBoardHeight-with-Notifications
+# Access the keyboard height dynamically
 
 Keyboard Notifications 
 
